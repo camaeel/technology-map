@@ -23,9 +23,9 @@
 * [ ] [Kubernetes the fun way](https://github.com/danacr/Kubernetes-The-Fun-Way)
 * [ ] [Advanced tutorials for K8s](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
 * Blogs:
-  * [TGIK videos](https://github.com/vmware-tanzu/tgik/blob/master/playlist.md)
-  * [Alex Ellis's blog](https://blog.alexellis.io/)
-  * [kubecloud](https://kubecloud.io/) 
+  * [ ] [TGIK videos](https://github.com/vmware-tanzu/tgik/blob/master/playlist.md)
+  * [ ] [Alex Ellis's blog](https://blog.alexellis.io/)
+  * [ ] [kubecloud](https://kubecloud.io/) 
    
     
 
