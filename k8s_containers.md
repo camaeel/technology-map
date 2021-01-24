@@ -1,7 +1,7 @@
 # Kubernetes
 ## Tools
 * [ ] DevSpace
-* [ ] Skaffold
+* [ ] [Skaffold](https://skaffold.dev/) - remote app development on kubernetes cluster.
 * [ ] Tilt
 * [ ] Telepresence
 * [ ] Gloo - Next-Generation API Gateway Built on Envoy 
