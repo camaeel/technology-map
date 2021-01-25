@@ -10,6 +10,7 @@
 # Gitops
 ## Tools
 * [ ] [Flux](https://github.com/fluxcd/flux)
+    * [ ] [Flux quick intro](https://raynix.info/archives/3769)
 * [ ] ArgoCD - A GitOps operator for Kubernetes with a web interface
 * [ ] Flux - The GitOps Kubernetes operator by the creators of GitOps — Weaveworks
 * [ ] Gitkube - A tool for building and deploying docker images on Kubernetes using git push
