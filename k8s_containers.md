@@ -11,6 +11,10 @@
 * [ ] [Sonobuoy](https://sonobuoy.io) - Diagnostic tool for kubernetes clusters
 * [ ] [Flagger](https://github.com/fluxcd/flagger)
 
+## Microservices
+* [ ] Istio
+  * [ ] https://github.com/docent-net/golearnistio
+
 ## K3s
 * [ ] [K3sup](https://k3sup.dev/) - k3s installer
 * [ ] [K3OS](https://k3os.io/) - K3s OS distribution
