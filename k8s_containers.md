@@ -38,6 +38,7 @@
 ## Tools
 * [ ] [Dive](https://github.com/wagoodman/dive) - docker image optimizer
 * [ ] [Clair](https://coreos.com/quay-enterprise/docs/latest/clair.html) - image security scaner
+* [ ] trivy - security scanner
 * [x] [Anchore](https://docs.anchore.com/current/docs/engine/engine_installation/) - image security scaner
 * [ ] [Distroless](https://github.com/GoogleContainerTools/distroless/blob/master/README.md) - distroless containers
   * [ ] https://szkoladockera.pl/distroless-docker-images-vs-alpine-linux/
