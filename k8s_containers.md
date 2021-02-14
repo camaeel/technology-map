@@ -30,8 +30,8 @@
   * [ ] [TGIK videos](https://github.com/vmware-tanzu/tgik/blob/master/playlist.md)
   * [ ] [Alex Ellis's blog](https://blog.alexellis.io/)
   * [ ] [kubecloud](https://kubecloud.io/) 
-   
-    
+## Guides:
+* [ ] [Kubernetes debug diagram](https://learnk8s.io/a/f65ffe9f61de0f4a417f7a05306edd4c.png)
 
 
 # Containers
