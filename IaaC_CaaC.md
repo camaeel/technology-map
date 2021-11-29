@@ -6,10 +6,9 @@
 # Infrastructure as a Code
 * [x] Terraform
 * [ ] [Pulumi](https://www.pulumi.com/) - alternative for Terraform with support for popular languages. Define infrastructure with source code instead of DSL.
-* [ ] [Infracost](https://www.infracost.io) - tool for estimating infrastructure cost for terraform project
-* [ ] [Checkov](https://www.checkov.io/) - terraform security policy tool
+* [x] [Infracost](https://www.infracost.io) - tool for estimating infrastructure cost for terraform project
+* [x] [Checkov](https://www.checkov.io/) - terraform security policy tool
 * [ ] Testing:
   * [ ] Terratest - tool for testing infrastructure created by terraform
     * [ ] [Terratest - swiss army knife for testing infrastructure](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5)
-* [ ] [AWS Terraform examples](https://github.com/terraform-providers/terraform-provider-aws/tree/master/examples)
 * [ ] [Localstack](https://github.com/localstack/localstack) - local AWS cloud simulator
