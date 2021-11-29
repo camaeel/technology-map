@@ -1,5 +1,7 @@
 # CI/CD
 ## Tools
+* [x] Jenkins
+* [x] Tekton
 * [ ] JenkinsX - Continuous Delivery on Kubernetes with built-in GitOps
 * [ ] Spinnaker - Multi-cloud, cloud native Continuous Delivery
 
