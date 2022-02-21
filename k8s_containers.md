@@ -24,6 +24,7 @@
 ## Reading
 * [x] [Kelsey Hightower's - Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [x] [Mummshad's - Kubernetes the hard way](https://github.com/mmumshad/kubernetes-the-hard-way)
+* [x] [Kubernetes networking explained](https://learnk8s.io/kubernetes-network-packets)
 * [ ] [Kodekloud CKA materials](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)
 * [ ] [Kodekloud - Install K8s from scratch - video](https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo)
 * [ ] [Kubernetes the fun way](https://github.com/danacr/Kubernetes-The-Fun-Way)
