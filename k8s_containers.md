@@ -32,7 +32,7 @@
 * Blogs:
   * [ ] [TGIK videos](https://github.com/vmware-tanzu/tgik/blob/master/playlist.md)
   * [ ] [Alex Ellis's blog](https://blog.alexellis.io/)
-  * [ ] [kubecloud](https://kubecloud.io/) 
+  * [ ] ~~DEPRECATED [kubecloud](https://kubecloud.io/) ~~
 ## Guides:
 * [ ] [Kubernetes debug diagram](https://learnk8s.io/a/f65ffe9f61de0f4a417f7a05306edd4c.png)
 
@@ -48,13 +48,13 @@
 * [ ] [Skopeo](https://github.com/containers/skopeo) - manage docker images
 * [x] Kaniko - build images without container runtime
 * Runtimes:
-  * [ ] Docker
+  * [x] Docker
   * [ ] contaienrd
   * [ ] cri-o
 * Local development
   * [x] Docker (desktop)
   * [x] rancher desktop
-  * [ ] Podman
-  * [ ] Lima
+  * [x] Podman
+  * [x] Lima
   * [x] nerdctl
   * [x] docker-compose
