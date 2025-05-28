@@ -5,4 +5,4 @@
   * [mocktail](https://traefik.io/blog/mocktail-the-mock-generator-for-strongly-typed-mocks/)
   * [Router comparison](https://www.alexedwards.net/blog/which-go-router-should-i-use)
   * [table writer](https://github.com/olekukonko/tablewriter)
-
+  * [pretty printer](https://github.com/goforj/godump)
